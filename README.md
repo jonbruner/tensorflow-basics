@@ -5,5 +5,5 @@ TensorFlow is great! Here are a few techniques I'm saving for future reference.
 
 Begin with [Save](save-load/save.ipynb), which also includes a quick demo of TensorFlow's `feed` mechanism, then move on to [Load](save-load/load.ipynb) to see how to load a TensorFlow model in a new file.
 
-Best,
+Best,\n
 Jon Bruner
